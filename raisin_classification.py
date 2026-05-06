@@ -21,7 +21,7 @@ print("RAISIN CLASSIFICATION - DATA EXPLORATION & ANALYSIS")
 print("="*60)
 
 # Load the dataset
-df = pd.read_excel(r"C:\Users\HP\OneDrive\Documents\bca 5th sem P\DM project\Raisin_Dataset.xlsx")
+df = pd.read_excel(r"Raisin_Dataset.xlsx")
 
 print("\n[1] DATASET OVERVIEW")
 print("-" * 60)
